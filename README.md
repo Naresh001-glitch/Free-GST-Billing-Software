@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧾 Pocket-Friendly GST Billing & Accounting Software (Windows • Mac • Android • Linux)
+# 🧾 Free GST Billing & Accounting Software (Windows • Mac • Android • Linux)
 
 ### Vyapar जैसे सभी प्रीमियम फीचर्स — अब हर छोटे व्यापारी के बजट में, हर डिवाइस पर!
 
